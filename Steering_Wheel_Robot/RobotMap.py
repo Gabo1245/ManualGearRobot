@@ -1,0 +1,8 @@
+LEFTTALONS = [0, 1]
+RIGHTTALONS = [2, 3]
+
+#Steering wheel Bindings 
+CONTROLLER = 0
+DOWNSHIFT = 5
+UPSHIFT = 6
+AXIS = [1,0]
